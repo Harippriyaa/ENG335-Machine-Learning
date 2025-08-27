@@ -16,4 +16,4 @@ Topics
   ● Tensorflow for machine learning
   ● Machine learning in the cloud
 
-I have uploaded my assignment(TMA) and final exam(TOA) question paper and code 
+I have uploaded my Group Based assignment(GBA) and final exam(ECA) question paper and code 
